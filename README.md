@@ -2,16 +2,34 @@
 RN Animation, TS, React.FC, анимация с цевтом
 GIF внутри
 
-AnimatedInput.tsx
-![AnimatedInput2](https://user-images.githubusercontent.com/81965202/153065316-da524151-24ab-4d33-8410-9e3c6eb555ba.gif)
-![AnimatedInput1](https://user-images.githubusercontent.com/81965202/153065352-022cef0a-ed1d-46f3-ac7f-f0ab1388bb5e.gif)
+<p style="text-align:center">&nbsp;</p>
 
-RainbowLoading.tsx
-![RainbowLoading](https://user-images.githubusercontent.com/81965202/153065415-e7336ae3-68c2-4082-940f-b5615cc015ce.gif)
+<p style="text-align:center"><span style="font-family:verdana,geneva,sans-serif; font-size:16px">AnimatedInput.tsx</span></p>
 
-ColorSlider.tsx
-![ColorSlider](https://user-images.githubusercontent.com/81965202/153065442-07f4df96-7ca3-43a1-b56f-8fdb4cf5b38d.gif)
+<p style="text-align:center"><img alt="" src="https://github.com/ilemle/React-Native-Animation/blob/main/AnimatedInput2.gif?raw=true" style="height:161px; width:600px" /></p>
 
-StickySlider
-![StickySlider](https://user-images.githubusercontent.com/81965202/153065454-28525ce2-e8ec-48eb-ae6f-ebbb87e01211.gif)
+<p style="text-align:center"><img alt="" src="https://github.com/ilemle/React-Native-Animation/blob/main/AnimatedInput1.gif?raw=true" style="height:228px; width:600px" /></p>
 
+<p style="text-align:center">&nbsp;</p>
+
+<p style="text-align:center">&nbsp;</p>
+
+<p style="text-align:center"><span style="font-size:16px"><span style="font-family:verdana,geneva,sans-serif"><span dir="ltr">RainbowLoading.tsx</span></span></span></p>
+
+<p style="text-align:center"><img alt="" src="https://github.com/ilemle/React-Native-Animation/blob/main/RainbowLoading.gif?raw=true" /></p>
+
+<p style="text-align:center">&nbsp;</p>
+
+<p style="text-align:center">&nbsp;</p>
+
+<p style="text-align:center"><span style="font-size:16px"><span style="font-family:verdana,geneva,sans-serif"><span dir="ltr">ColorSlider.tsx</span></span></span></p>
+
+<p style="text-align:center"><img alt="" src="https://github.com/ilemle/React-Native-Animation/blob/main/ColorSlider.gif?raw=true" style="height:488px; width:600px" /></p>
+
+<p style="text-align:center">&nbsp;</p>
+
+<p style="text-align:center">&nbsp;</p>
+
+<p style="text-align:center"><span style="font-size:16px"><span style="font-family:verdana,geneva,sans-serif"><span dir="ltr">StickySlider</span></span></span></p>
+
+<p style="text-align:center"><img alt="" src="https://github.com/ilemle/React-Native-Animation/blob/main/StickySlider.gif?raw=true" style="height:416px; width:600px" /></p>
